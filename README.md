@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROBIN MIAH</h1>
-<h3 align="center">A passionate Electronic Engineer</h3>
+<h3 align="center">A passionate Electronic Engineering Student</h3>
 
 - 🔭 I’m currently working on **Arduino**
 
